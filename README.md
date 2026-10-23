@@ -36,3 +36,19 @@ Projects will use public, appropriately licensed, or synthetic datasets. No conf
 ## About Me
 
 I am an Environmental Health professional interested in public health research, evidence-based programme improvement, and the responsible use of data to support health decisions.
+## Featured Project
+
+### Ethiopia WASH Data Analysis (2000–2024)
+
+Explored WHO/UNICEF Joint Monitoring Programme estimates for basic drinking-water service coverage in Ethiopia using Microsoft Excel.
+
+**What I did**
+- Checked record counts, duplicate year–residence combinations, and value ranges.
+- Created a PivotTable to compare total, rural, and urban coverage.
+- Built a line chart to explore changes in coverage over time.
+
+**Tools:** Microsoft Excel, PivotTables, data quality checks, and data visualization.
+
+**Files:** `Ethiopia_WASH_Data_Analysis.xlsx` and `Ethiopia_WASH_Analysis_Notes.md`
+
+*Note: The dataset's row count and category coverage still require verification against the original source.*
